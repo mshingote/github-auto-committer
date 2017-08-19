@@ -35,5 +35,5 @@ def main(dirs, dates):
 
 
 if __name__ == "__main__":
-    main({'github_auto_commiter':'https://github.com/gabontau/github_auto_commiter.git'},
+    main({'github_auto_commiter':'https://github.com/alexbod/github-auto-commiter.git'},
          (date(2017,2,23), date(2017,2,25)))
