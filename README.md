@@ -1,1 +1,1 @@
-# github-auto-commiter
+# github-auto-committer
